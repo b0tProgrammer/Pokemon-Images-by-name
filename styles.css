@@ -1,0 +1,27 @@
+img {
+    width: 490px;
+}
+body {
+    background: linear-gradient(to right, #e38e7b, #c57233);
+    font-family: Arial, sans-serif;
+}
+.items h1{
+    text-align: center;
+    color: #fff;
+    font-size: 2.5em;
+    margin-top: 20px;
+}
+.items input {
+    text-align: center;
+    width: 300px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin: 20px auto;
+    display: block;
+}
+.items img {
+    width: 400px;
+    margin: 0px auto;
+    display: block;
+}
