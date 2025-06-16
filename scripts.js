@@ -1,7 +1,6 @@
 document.addEventListener("keydown", event => {
     if(event.key === "Enter") {
         const pName = document.getElementById("pokeName");
-        console.log(pName.value);
         if(pName.value === "") {
             alert("Please enter a Pokémon name");
         } else {
